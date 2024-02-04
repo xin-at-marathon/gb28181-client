@@ -47,3 +47,5 @@ target
 .externalToolBuilders
 */.externalToolBuilders
 
+.vscode/
+.m2/
